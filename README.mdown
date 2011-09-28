@@ -1,0 +1,14 @@
+# Installation
+
+Clone this repo :
+
+  git clone git://github.com/fajrif/upload.tumblr.com.git
+
+run the bundle install
+
+# Usage
+
+  rake generate   # => to download from given rss feed url
+
+  rake publish    # => to publish to your tumblr
+
